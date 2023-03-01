@@ -13,7 +13,7 @@
 | 10 |	NIKHIL BURDAK (RA2011003010209) | [Link](https://nikhilburdak.github.io/18CSE301J_RA2011003010209/) | 1 | :white_check_mark: |
 | 11 |	ANISHKA KESARIA (RA2011003010240) | [Link]() | 1 | |
 | 12 |	SHIKHAR AGRAWAL (RA2011003010249) | [Link](https://shikharagrawal2002.github.io/18CSE301J_RA2011003010249/) | 1 | :white_check_mark: |
-| 13 |	ADITYA S (RA2011003010252) |  [Link]() | 1 | |
+| 13 |	ADITYA S (RA2011003010252) |  [Link](https://adityas2002.github.io/18CSE301J_RA2011003010252/) | 1 | :white_check_mark: |
 | 14 |	ARYAN DUTTA (RA2011003010290) |  [Link]() | 1 | |
 | 15 |  YASH PRATAP SINGH (RA2011003010314) |  [Link]() | 1 | |
 | 16 |	MOHAMMAD AUSAF SHAH (RA2011003010322) |  [Link]() | 1 | |
@@ -61,7 +61,7 @@
 | 58 |	Siddharth Choudhar (RA2011032010067)	 | [Link]() | 1 | |
 | 59 |	SIDDHARTH MRIGESH PANDEY (RA2011033010026) | [Link]() | 1 | |
 | 60 |	ADARSH KUMAR SINGH (RA2011033010034) | [Link]() | 1 |  |
-| 61 |  Vikram Saurav (RA2011003010714) | [Link](https://vikku911.github.io/18CSC301J_RA2011003010714/) | 2 |:white_check_mark:  |
+| 61 |  Vikram Saurav (RA2011003010714) | [Link]() | 2 | |
 | 62 |	SUBRAMANIAN R (RA2011003010727) | [Link](https://sites.google.com/srmist.edu.in/subramanian727/home) | 2 |:white_check_mark: |
 | 63 |	AADHITYA R (RA2011003010730) | [Link]() | 2 | |
 | 64 |	Vikash P R (RA2011003010737) | [Link](https://vikashpr.github.io/18CSE301J_RA2011003010737/) | 2 | :white_check_mark: |
